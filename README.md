@@ -1,4 +1,4 @@
-# class06
+# class07
 
 
 1) clone the repository to your area on Rivanna
